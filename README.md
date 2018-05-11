@@ -235,7 +235,7 @@ Y damos doble Click para verificar su contenido.<br>
 <img src="https://cybersecuritylaboratory.files.wordpress.com/2016/09/captura70.jpg"><br>
 <br>
 
-#Respuestas al Caso
+# Respuestas al Caso
 <br><br>
 
 ¿Quién es el proveedor de marihuana de Joe Jacobs y cuál es su dirección?<br>
